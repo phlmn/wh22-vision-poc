@@ -1,0 +1,12 @@
+{
+  "name": "wh22-poc",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "paper": "^0.12.17",
+    "vite": "^4.2.1"
+  }
+}
